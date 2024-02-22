@@ -1,0 +1,7 @@
+﻿donor,sample_name,display_name,stage,treatment
+OBS-006,OBS-006-001,Tumor digest,Tumor digest,None
+OBS-006,OBS-006-002,pre-REP,pre-REP,None
+OBS-006,OBS-006-003,post-REP Conv,post-REP,Conventional
+OBS-006,OBS-006-004,post-REP CytoTIL15,post-REP,CytoTIL15
+OBS-006,OBS-006-005,PDx Conv,PDX TIL,Conventional
+OBS-006,OBS-006-007,PDx CytoTIL15,PDX TIL,CytoTIL15
